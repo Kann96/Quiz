@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+final class QuestionViewController: UIViewController {
 
     private let questions = Question.getQuestions()
     
